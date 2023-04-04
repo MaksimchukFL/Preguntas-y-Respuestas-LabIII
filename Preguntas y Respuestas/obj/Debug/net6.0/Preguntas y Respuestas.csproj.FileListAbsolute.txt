@@ -1,0 +1,15 @@
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\bin\Debug\net6.0\Preguntas y Respuestas.exe
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\bin\Debug\net6.0\Preguntas y Respuestas.deps.json
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\bin\Debug\net6.0\Preguntas y Respuestas.runtimeconfig.json
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\bin\Debug\net6.0\Preguntas y Respuestas.dll
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\bin\Debug\net6.0\Preguntas y Respuestas.pdb
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.csproj.AssemblyReference.cache
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.AssemblyInfoInputs.cache
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.AssemblyInfo.cs
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.csproj.CoreCompileInputs.cache
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.dll
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\refint\Preguntas y Respuestas.dll
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.pdb
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\Preguntas y Respuestas.genruntimeconfig.cache
+C:\Users\Mercado\Desktop\FranProgramas\Preguntas y Respuestas\obj\Debug\net6.0\ref\Preguntas y Respuestas.dll
